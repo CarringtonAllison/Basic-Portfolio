@@ -149,7 +149,6 @@ header {
     position: relative;
     width: 100%;
     height: 425px;
-    background-color: lightgray;
 }
 
 .box {
@@ -198,4 +197,13 @@ header {
 #slim {
     margin-top: -4px;
     margin-bottom: -4px;
+}
+
+h3.portfolio {
+    position: absolute;
+    bottom: 10px;
+    width: 80%;
+    background-color:#dddddd;
+    text-align: center;
+    margin-left: 20px;
 }
