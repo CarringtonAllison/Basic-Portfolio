@@ -148,7 +148,7 @@ header {
 .box-set {
     position: relative;
     width: 100%;
-    height: 100px;
+    height: 425px;
     background-color: lightgray;
 }
 
@@ -163,6 +163,39 @@ header {
 }
 
 .box2 {
-    left: 10px;
+    left: 25%;
     top: 0px;
+}
+
+.box3 {
+    top: 0;
+    left: 50%;
+}
+
+.box4 {
+    top: 0;
+    right:0;
+}
+
+.box5 {
+    bottom: 0;
+    left: 0;
+}
+
+.box6 {
+    bottom: 0;
+    left: 25%;
+}
+.box7 {
+    bottom: 0;
+    left: 50%;
+}
+
+.box8 {
+    bottom: 0;
+    right: 0;
+}
+#slim {
+    margin-top: -4px;
+    margin-bottom: -4px;
 }
